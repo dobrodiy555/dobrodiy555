@@ -26,8 +26,6 @@
   </p>
 </div>
 
-<br />
-
 <div align="left">
   <h3>💼 Experience</h3>
   <ul>
@@ -47,8 +45,6 @@
     <li>📦 Other: WordPress, Git</li>
   </ul>
 </div>
-
-<br />
 
 <div align="center">
   <p>Thanks for visiting my profile! Feel free to connect.</p>
