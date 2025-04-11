@@ -51,21 +51,6 @@
 <br />
 
 <div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dracula" alt="GitHub Streak" />
-</div>
-
-<br />
-
-<div align="center">
-  <h3>💬 Quote</h3>
-  <p><i>"The only way to do great work is to love what you do."</i> - Steve Jobs</p>
-</div>
-
-<br />
-
-<div align="center">
   <p>Thanks for visiting my profile! Feel free to connect.</p>
 </div>
 
