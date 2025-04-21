@@ -41,7 +41,7 @@
   <ul>
     <li>🌐 Front-end: HTML, CSS, JavaScript, jQuery, Tailwind, Bootstrap, Gulp, Webpack</li>
     <li>⚙️ Back-end: PHP, Laravel</li>
-    <li>💾 Databases: MySQL, SQL</li>
+    <li>💾 Databases: MySQL, PostgreSQL</li>
     <li>📦 Other: WordPress, Git</li>
   </ul>
 </div>
